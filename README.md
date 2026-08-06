@@ -6,6 +6,7 @@
 ![Rust image](rust-logo-64x64.png)
 ![Nix image](nix-logo-64x64.png)
 
+<!---
 <details>
 <summary>Programming languages tier list</summary>
 
@@ -13,7 +14,6 @@
 
 </details>
 
-<!---
 <details>
 <summary>Some useful mathematical things</summary>
  
